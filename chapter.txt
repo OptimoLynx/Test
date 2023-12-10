@@ -1,1 +1,1 @@
-I am testing git.
+I am testing git with global username.
